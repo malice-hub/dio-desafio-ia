@@ -14,9 +14,10 @@ Este projeto foi inspirado em estudos de segurança digital para leigos, para of
 O "ChatGPT" foi utilizado no desenvolvimento do roteiro para o podcast. Com o "ElevenLabs" foi escolhida uma voz sintética para a narração; o "Boomy" forneceu uma trilha sonora e o "AI Sound Generator" criou os efeitos sonoros indicados no roteiro. A edição foi feita com o "Audacity" para se inserir os efeitos desejados na edição final.
 
 ## 🚀 Resultados
-O resultado foi bastante satisfatório, com o texto dentro do escopo do assunto. 
+O resultado foi bastante satisfatório, com o texto gerado tendo uma profundidade adequada a iniciantes.
+O tema técnico não facilitou o processamento de sintetização de voz: foi necessário repetir a criação de áudio para trechos específicos do texto, escritos de outra forma, para se tentar tornar mais natural a pronúncia de palavras que não fazem parte do vocabulário da língua portuguesa. Por exemplo, para o "qwerty" foi preciso escrever "cuérti", e listas numeradas exigiram a escrita por extenso da numeração para evitar inconsistências. Sequências de números e letras precisaram ter o áudio editado, e entre as senhas fortes geradas no texto só foi utilizada uma para o exemplo, depois de ser reescrita, porque o áudio ficava pouco inteligível.
 
 ## 💭 Reflexão
-Foi uma ótima experiência, com alguns desafios inesperados: foi necessária uma edição do áudio, com a repetição de trechos específicos do texto, escritos de outra forma, para se tentar tornar mais natural a pronúncia de palavras que não fazem parte do vocabulário da língua portuguesa, como por exemplo, "qwerty"; ou sequências de números e letras, bem como "admin". Sendo um tema técnico, seria mesmo extraordinário que o áudio fosse "humanamente perfeito"!
+Foi uma experiência interessante, que serviu para mostrar os avanços e algumas limitações desses recursos no estágio atual.
 
 [Em breve, aqui o link para o podcast!!]
