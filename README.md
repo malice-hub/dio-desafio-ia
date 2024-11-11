@@ -20,4 +20,4 @@ O tema técnico não facilitou o processamento de sintetização de voz: foi nec
 ## 💭 Reflexão
 Foi uma experiência interessante, que serviu para mostrar os avanços e algumas limitações desses recursos no estágio atual.
 
-[Em breve, aqui o link para o podcast!!]
+**[Link para o Podcast](https://linksdahora.com.br/podcast-seguranca.mp3)**
